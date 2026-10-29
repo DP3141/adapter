@@ -45,6 +45,8 @@ public class MainActivity extends AppCompatActivity {
         map.put("Bananas", 30);
         if (map.containsKey("Bananas")) {
 
+            ///hiiiiii
+
         }
         Integer removedValue = map.remove("Apples");
 
